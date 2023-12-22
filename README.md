@@ -13,7 +13,7 @@ Aplikasi : https://drive.google.com/drive/folders/1w_7ecOWU_UIFBPhBtdIsKAVBsnmd_
 5. (CC) C004BSY3467 – Muhammad `Adlillah Aqsha Hibatul Haqqi – Institut Teknologi Sepuluh Nopember - [Active]
 6. (MD) A296BSY2148 – Ahmad Galih Nur Jati – Universitas Pembangunan Nasional Veteran Jawa Timur - [Active]
 
-# API Documentation
+# Getting Started (API)
 
 1. Prequirements
    - python
@@ -28,6 +28,8 @@ Aplikasi : https://drive.google.com/drive/folders/1w_7ecOWU_UIFBPhBtdIsKAVBsnmd_
    - Install all the requirements using the command 'pip install -r requirements.txt'.
    - Run the server using the command 'flask run'. This is sufficient if you're only running the API on your local machine.
    Continue using your application through the existing code.
+
+# Our API
 
 1. POST /predict
    recommendation system
