@@ -6,14 +6,28 @@ Aplikasi : https://drive.google.com/drive/folders/1w_7ecOWU_UIFBPhBtdIsKAVBsnmd_
 
 # Our Team
 
-(ML) M004BSX0232 – Faraz Nurdini – Institut Teknologi Sepuluh Nopember - [Active]
-(ML) M001BSY1226 – Faiz Akbar Parlindungan Siregar  – Institut Pertanian Bogor - [Inactive]
-(ML)  M296BSY0916 – Moh. Angga Ardiyansyah – Universitas Pembangunan Nasional Veteran Jawa Timur - [Active]
-(CC)  C296BSX3230 –Najwa Fathiro Cahyono – Universitas Pembangunan Nasional Veteran Jawa Timur - [Active]
-(CC) C004BSY3467 – Muhammad `Adlillah Aqsha Hibatul Haqqi – Institut Teknologi Sepuluh Nopember - [Active]
-(MD) A296BSY2148 – Ahmad Galih Nur Jati – Universitas Pembangunan Nasional Veteran Jawa Timur - [Active]
+1. (ML) M004BSX0232 – Faraz Nurdini – Institut Teknologi Sepuluh Nopember - [Active]
+2. (ML) M001BSY1226 – Faiz Akbar Parlindungan Siregar  – Institut Pertanian Bogor - [Inactive]
+3. (ML)  M296BSY0916 – Moh. Angga Ardiyansyah – Universitas Pembangunan Nasional Veteran Jawa Timur - [Active]
+4. (CC)  C296BSX3230 –Najwa Fathiro Cahyono – Universitas Pembangunan Nasional Veteran Jawa Timur - [Active]
+5. (CC) C004BSY3467 – Muhammad `Adlillah Aqsha Hibatul Haqqi – Institut Teknologi Sepuluh Nopember - [Active]
+6. (MD) A296BSY2148 – Ahmad Galih Nur Jati – Universitas Pembangunan Nasional Veteran Jawa Timur - [Active]
 
 # API Documentation
+
+1. Prequirements
+   -python
+   -flask
+   -gunicorn
+   -numpy
+   -tensorflow
+   
+2. Initial setup
+   -Clone the Project from our Github Repository.
+   -Create a Python virtual environment in the folder using the command 'python -m venv env', and activate the environment by running the 'activate.bat' file inside the 'env' folder.
+   -Install all the requirements using the command 'pip install -r requirements.txt'.
+   -Run the server using the command 'flask run'. This is sufficient if you're only running the API on your local machine.
+   Continue using your application through the existing code.
 
 1. POST /predict
    recommendation system
