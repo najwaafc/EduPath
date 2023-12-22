@@ -23,10 +23,10 @@ Aplikasi : https://drive.google.com/drive/folders/1w_7ecOWU_UIFBPhBtdIsKAVBsnmd_
    -tensorflow
    
 2. Initial setup
-   -Clone the Project from our Github Repository.
-   -Create a Python virtual environment in the folder using the command 'python -m venv env', and activate the environment by running the 'activate.bat' file inside the 'env' folder.
-   -Install all the requirements using the command 'pip install -r requirements.txt'.
-   -Run the server using the command 'flask run'. This is sufficient if you're only running the API on your local machine.
+   - Clone the Project from our Github Repository.
+   - Create a Python virtual environment in the folder using the command 'python -m venv env', and activate the environment by running the 'activate.bat' file inside the 'env' folder.
+   - Install all the requirements using the command 'pip install -r requirements.txt'.
+   - Run the server using the command 'flask run'. This is sufficient if you're only running the API on your local machine.
    Continue using your application through the existing code.
 
 1. POST /predict
