@@ -16,11 +16,11 @@ Aplikasi : https://drive.google.com/drive/folders/1w_7ecOWU_UIFBPhBtdIsKAVBsnmd_
 # API Documentation
 
 1. Prequirements
-   -python
-   -flask
-   -gunicorn
-   -numpy
-   -tensorflow
+   - python
+   - flask
+   - gunicorn
+   - numpy
+   - tensorflow
    
 2. Initial setup
    - Clone the Project from our Github Repository.
